@@ -9,7 +9,7 @@
 - 📫 How to reach me:  
   [LinkedIn](https://www.linkedin.com/in/kartiksharma0047) | [Email](mailto:kartiksharma0047@gmail.com)
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I’ve built over **40+ projects** in 2024 — from eCommerce to heart disease prediction to full CMS!
+- ⚡ Fun fact: I’ve built over **50+ projects** over Web development — from eCommerce to heart disease prediction to full CMS!
 
 ---
 
